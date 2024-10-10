@@ -98,6 +98,6 @@ I am always excited to collaborate on web development projects, IoT systems, and
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/webdevmsaad)
+- **LinkedIn**: [linkedin.com/in/webdevmsaad](https://linkedin.com/in/webdevmsaad)
 - **GitHub**: [github.com/thecreatorzx](https://github.com/thecreatorzx)
 - **Email**: responseatworkemail@gmail.com
