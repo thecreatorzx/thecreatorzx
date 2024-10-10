@@ -34,38 +34,38 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** and **IoT Enthusiast** 
 - **[Rock Paper Scissor Lizard Spock](https://github.com/thecreatorzx/rock-paper-scissor-lizard-spock_game)**  
   A fun game with extended rules of Rock Paper Scissors, including Lizard and Spock.
 
-  - **Tech Stack**: CSS, HTML
+  - **Tech Stack**: CSS, HTML, JS
 
 - **[Multistep Form](https://github.com/thecreatorzx/MultistepForm)**  
   A multi-step form with a smooth and user-friendly UI.
 
-  - **Tech Stack**: CSS, JavaScript
+  - **Tech Stack**: CSS, JavaScript, HTML
 
 - **[Zoo App](https://github.com/thecreatorzx/zooApp)**  
   An interactive zoo app with information about various animals.
-  - **Tech Stack**: JavaScript, HTML, CSS
+  - **Tech Stack**: JavaScript, HTML, CSS, Node, Express, Mongodb
 
 ### 🌐 Web Development
 
 - **[3D Printing E-Commerce](https://github.com/thecreatorzx/3D-PRINTING-E-COMMERCE)**  
   A full-stack platform for customers to purchase 3D-printed parts. Features include user authentication, cart management with Redux, and payment gateway integration.
 
-  - **Tech Stack**: React, Node.js, Express, MongoDB
+  - **Tech Stack**: React, Node.js, Express, MongoDB, Firebase
 
 - **[Product Checker](https://github.com/thecreatorzx/product-checker)**  
   A web tool for comparing and reviewing products based on custom criteria.
 
-  - **Tech Stack**: CSS, JavaScript
+  - **Tech Stack**: CSS, JavaScript, Css, Barcode
 
 - **[Weatheria](https://github.com/thecreatorzx/weatherApp)**  
   A weather forecasting application built with JavaScript, fetching live data from a weather API.
-  - **Tech Stack**: JavaScript, HTML
+  - **Tech Stack**: JavaScript, HTML, CSS, API, Axios
 
 ### 🌱 IoT & Embedded Systems
 
 - **[Krishi-Rakshak](https://github.com/thecreatorzx/SmartIrrigation)**  
   An IoT-based smart irrigation system using ESP8266 and ESP32 to monitor soil moisture and optimize water usage.
-  - **Tech Stack**: C++, ESP8266, Web Interface
+  - **Tech Stack**: C++, ESP8266, Web Interface, ML & AI
 
 ### 🔗 Blockchain & Decentralized Apps
 
