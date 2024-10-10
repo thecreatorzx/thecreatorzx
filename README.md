@@ -1,6 +1,16 @@
 # Hi, I'm Mohd Saad 👋
 
-Welcome to my GitHub! I'm a **Full-Stack Web Developer** and **IoT Enthusiast** passionate about creating innovative solutions in web development, IoT, and AI & ML. I love working on exciting projects, exploring new technologies, and contributing to open-source communities. Currently seeking internship opportunities in web development.
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** 💻 and **IoT Enthusiast** 🌱 passionate about creating innovative solutions in **Web Development**, **IoT**, and **AI & ML** 🤖.
+
+I love working on exciting projects, exploring new technologies, and contributing to open-source communities. Currently seeking **internship opportunities** in web development! 🌟
+
+---
+
+## 🌟 What I Do:
+
+- 🔧 **Web Development**: Building dynamic and responsive web applications.
+- 🌐 **IoT Projects**: Developing smart solutions using microcontrollers and sensors.
+- 📊 **AI & ML**: Exploring data-driven approaches to solve complex problems.
 
 ---
 
