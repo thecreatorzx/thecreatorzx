@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** and **IoT Enthusiast** 
 
 ### 🧠 Fun & Creative Projects
 
-- **[Yazy](https://github.com/thecreatorzx/yazy)**  
+- **[Yazy Game](https://github.com/thecreatorzx/yazy)**  
   A web-based 2-player game inspired by the mobile Yazy game.
   - **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind CSS
   - [Play Yazy now!](https://yazygame.netlify.app/)
@@ -57,13 +57,13 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** and **IoT Enthusiast** 
 
   - **Tech Stack**: CSS, JavaScript
 
-- **[Weather App](https://github.com/thecreatorzx/weatherApp)**  
+- **[Weatheria](https://github.com/thecreatorzx/weatherApp)**  
   A weather forecasting application built with JavaScript, fetching live data from a weather API.
   - **Tech Stack**: JavaScript, HTML
 
 ### 🌱 IoT & Embedded Systems
 
-- **[Smart Irrigation](https://github.com/thecreatorzx/SmartIrrigation)**  
+- **[Krishi-Rakshak](https://github.com/thecreatorzx/SmartIrrigation)**  
   An IoT-based smart irrigation system using ESP8266 and ESP32 to monitor soil moisture and optimize water usage.
   - **Tech Stack**: C++, ESP8266, Web Interface
 
