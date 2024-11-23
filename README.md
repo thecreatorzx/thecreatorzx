@@ -64,11 +64,6 @@ I love working on exciting projects, exploring new technologies, and contributin
 
 ### 🌐 Web Development
 
-- **[3D Printing E-Commerce](https://github.com/thecreatorzx/3D-PRINTING-E-COMMERCE)**  
-  A full-stack platform for customers to purchase 3D-printed parts. Features include user authentication, cart management with Redux, and payment gateway integration.
-
-  - **Tech Stack**: React, Node.js, Express, MongoDB, Firebase
-
 - **[Product Checker](https://github.com/thecreatorzx/product-checker)**  
   A web tool for comparing and reviewing products based on custom criteria.
 
