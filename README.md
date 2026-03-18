@@ -48,7 +48,7 @@ I build things that are fast, secure, and maintainable — security-first auth, 
 - Every security decision documented in the README
 - `React 18` `TypeScript` `Node.js` `PostgreSQL` `Prisma ORM` `TailwindCSS`
 
-**[Stock Price Tracker](https://github.com/thecreatorzx/stock-tracker)** — Real-time stock visualiser · [Live Demo ↗](https://stock-tracker-demo.netlify.app)
+**[Stock Price Tracker](https://github.com/thecreatorzx/stock-tracker)** — Real-time stock visualiser · [Live Demo ↗]([https://stock-tracker-demo.netlify.app](https://sage-bubblegum-1a98b0.netlify.app/))
 - **SQLite caching layer + debounced refresh** reduced API calls by **50%** while maintaining live UI responsiveness
 - Interactive charts, watchlists, historical views — deployed on Netlify
 - `React 18` `Flask 2.2` `SQLite` `Python 3.10` `Alpha Vantage API`
